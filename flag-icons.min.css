@@ -1,0 +1,676 @@
+.fi {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  font-style: normal;
+}
+.fi-ad {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ad.png");
+}
+.fi-ae {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ae.png");
+}
+.fi-af {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/af.png");
+}
+.fi-ag {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ag.png");
+}
+.fi-ai {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ai.png");
+}
+.fi-al {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/al.png");
+}
+.fi-am {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/am.png");
+}
+.fi-an {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/an.png");
+}
+.fi-ao {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ao.png");
+}
+.fi-aq {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/aq.png");
+}
+.fi-ar {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ar.png");
+}
+.fi-as {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/as.png");
+}
+.fi-at {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/at.png");
+}
+.fi-au {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/au.png");
+}
+.fi-aw {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/aw.png");
+}
+.fi-az {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/az.png");
+}
+.fi-ba {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ba.png");
+}
+.fi-bb {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bb.png");
+}
+.fi-bd {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bd.png");
+}
+.fi-be {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/be.png");
+}
+.fi-bf {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bf.png");
+}
+.fi-bg {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bg.png");
+}
+.fi-bh {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bh.png");
+}
+.fi-bi {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bi.png");
+}
+.fi-bj {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bj.png");
+}
+.fi-bm {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bm.png");
+}
+.fi-bn {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bn.png");
+}
+.fi-bo {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bo.png");
+}
+.fi-br {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/br.png");
+}
+.fi-bs {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bs.png");
+}
+.fi-bt {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bt.png");
+}
+.fi-bw {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bw.png");
+}
+.fi-by {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/by.png");
+}
+.fi-bz {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/bz.png");
+}
+.fi-ca {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ca.png");
+}
+.fi-cd {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/cd.png");
+}
+.fi-cf {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/cf.png");
+}
+.fi-cg {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/cg.png");
+}
+.fi-ch {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ch.png");
+}
+.fi-ci {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ci.png");
+}
+.fi-ck {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ck.png");
+}
+.fi-cl {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/cl.png");
+}
+.fi-cm {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/cm.png");
+}
+.fi-cn {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/cn.png");
+}
+.fi-co {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/co.png");
+}
+.fi-cr {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/cr.png");
+}
+.fi-cu {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/cu.png");
+}
+.fi-cv {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/cv.png");
+}
+.fi-cy {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/cy.png");
+}
+.fi-cz {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/cz.png");
+}
+.fi-de {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/de.png");
+}
+.fi-dj {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/dj.png");
+}
+.fi-dk {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/dk.png");
+}
+.fi-dm {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/dm.png");
+}
+.fi-do {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/do.png");
+}
+.fi-dz {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/dz.png");
+}
+.fi-ec {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ec.png");
+}
+.fi-ee {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ee.png");
+}
+.fi-eg {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/eg.png");
+}
+.fi-eh {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/eh.png");
+}
+.fi-er {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/er.png");
+}
+.fi-es {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/es.png");
+}
+.fi-et {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/et.png");
+}
+.fi-fi {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/fi.png");
+}
+.fi-fj {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/fj.png");
+}
+.fi-fm {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/fm.png");
+}
+.fi-fo {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/fo.png");
+}
+.fi-fr {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/fr.png");
+}
+.fi-ga {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ga.png");
+}
+.fi-gb {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gb.png");
+}
+.fi-gd {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gd.png");
+}
+.fi-ge {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ge.png");
+}
+.fi-gg {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gg.png");
+}
+.fi-gh {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gh.png");
+}
+.fi-gi {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gi.png");
+}
+.fi-gm {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gm.png");
+}
+.fi-gn {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gn.png");
+}
+.fi-gp {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gp.png");
+}
+.fi-gq {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gq.png");
+}
+.fi-gr {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gr.png");
+}
+.fi-gt {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gt.png");
+}
+.fi-gu {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gu.png");
+}
+.fi-gq {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gq.png");
+}
+.fi-gy {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/gy.png");
+}
+.fi-hk {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/hk.png");
+}
+.fi-hn {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/hn.png");
+}
+.fi-hr {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/hr.png");
+}
+.fi-ht {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ht.png");
+}
+.fi-hu {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/hu.png");
+}
+.fi-id {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/id.png");
+}
+.fi-ie {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ie.png");
+}
+.fi-il {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/il.png");
+}
+.fi-im {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/im.png");
+}
+.fi-in {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/in.png");
+}
+.fi-iq {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/iq.png");
+}
+.fi-ir {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ir.png");
+}
+.fi-is {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/is.png");
+}
+.fi-it {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/it.png");
+}
+.fi-je {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/je.png");
+}
+.fi-jm {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/jm.png");
+}
+.fi-jo {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/jo.png");
+}
+.fi-jp {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/jp.png");
+}
+.fi-ke {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ke.png");
+}
+.fi-kg {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/kg.png");
+}
+.fi-kh {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/kh.png");
+}
+.fi-ki {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ki.png");
+}
+.fi-km {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/km.png");
+}
+.fi-kn {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/kn.png");
+}
+.fi-kp {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/kp.png");
+}
+.fi-kr {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/kr.png");
+}
+.fi-kw {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/kw.png");
+}
+.fi-ky {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ky.png");
+}
+.fi-kz {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/kz.png");
+}
+.fi-la {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/la.png");
+}
+.fi-lb {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/lb.png");
+}
+.fi-lc {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/lc.png");
+}
+.fi-li {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/li.png");
+}
+.fi-lk {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/lk.png");
+}
+.fi-lr {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/lr.png");
+}
+.fi-ls {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ls.png");
+}
+.fi-lt {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/lt.png");
+}
+.fi-lu {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/lu.png");
+}
+.fi-lv {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/lv.png");
+}
+.fi-ly {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ly.png");
+}
+.fi-ma {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ma.png");
+}
+.fi-mc {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mc.png");
+}
+.fi-md {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/md.png");
+}
+.fi-me {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/me.png");
+}
+.fi-mg {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mg.png");
+}
+.fi-mh {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mh.png");
+}
+.fi-mk {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mk.png");
+}
+.fi-ml {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ml.png");
+}
+.fi-mm {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mm.png");
+}
+.fi-mn {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mn.png");
+}
+.fi-mo {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mo.png");
+}
+.fi-mq {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mq.png");
+}
+.fi-mr {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mr.png");
+}
+.fi-ms {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ms.png");
+}
+.fi-mt {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mt.png");
+}
+.fi-mu {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mu.png");
+}
+.fi-mv {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mv.png");
+}
+.fi-mw {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mw.png");
+}
+.fi-mx {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mx.png");
+}
+.fi-my {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/my.png");
+}
+.fi-mz {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/mz.png");
+}
+.fi-na {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/na.png");
+}
+.fi-nc {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/nc.png");
+}
+.fi-ne {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ne.png");
+}
+.fi-ng {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ng.png");
+}
+.fi-ni {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ni.png");
+}
+.fi-nl {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/nl.png");
+}
+.fi-no {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/no.png");
+}
+.fi-np {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/np.png");
+}
+.fi-nr {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/nr.png");
+}
+.fi-nz {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/nz.png");
+}
+.fi-om {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/om.png");
+}
+.fi-pa {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/pa.png");
+}
+.fi-pe {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/pe.png");
+}
+.fi-pf {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/pf.png");
+}
+.fi-pg {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/pg.png");
+}
+.fi-ph {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ph.png");
+}
+.fi-pk {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/pk.png");
+}
+.fi-pl {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/pl.png");
+}
+.fi-pr {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/pr.png");
+}
+.fi-ps {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ps.png");
+}
+.fi-pt {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/pt.png");
+}
+.fi-pw {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/pw.png");
+}
+.fi-py {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/py.png");
+}
+.fi-qa {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/qa.png");
+}
+.fi-re {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/re.png");
+}
+.fi-ro {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ro.png");
+}
+.fi-rs {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/rs.png");
+}
+.fi-ru {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ru.png");
+}
+.fi-rw {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/rw.png");
+}
+.fi-sa {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sa.png");
+}
+.fi-sb {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sb.png");
+}
+.fi-sc {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sc.png");
+}
+.fi-sd {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sd.png");
+}
+.fi-se {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/se.png");
+}
+.fi-sg {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sg.png");
+}
+.fi-si {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/si.png");
+}
+.fi-sk {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sk.png");
+}
+.fi-sl {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sl.png");
+}
+.fi-sm {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sm.png");
+}
+.fi-sn {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sn.png");
+}
+.fi-so {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/so.png");
+}
+.fi-sr {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sr.png");
+}
+.fi-st {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/st.png");
+}
+.fi-sv {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sv.png");
+}
+.fi-sy {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sy.png");
+}
+.fi-sz {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/sz.png");
+}
+.fi-tc {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/tc.png");
+}
+.fi-td {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/td.png");
+}
+.fi-tg {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/tg.png");
+}
+.fi-th {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/th.png");
+}
+.fi-tj {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/tj.png");
+}
+.fi-tl {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/tl.png");
+}
+.fi-tm {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/tm.png");
+}
+.fi-tn {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/tn.png");
+}
+.fi-to {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/to.png");
+}
+.fi-tr {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/tr.png");
+}
+.fi-tt {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/tt.png");
+}
+.fi-tv {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/tv.png");
+}
+.fi-tw {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/tw.png");
+}
+.fi-tz {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/tz.png");
+}
+.fi-ua {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ua.png");
+}
+.fi-ug {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ug.png");
+}
+.fi-us {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/us.png");
+}
+.fi-uy {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/uy.png");
+}
+.fi-uz {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/uz.png");
+}
+.fi-va {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/va.png");
+}
+.fi-vc {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/vc.png");
+}
+.fi-ve {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ve.png");
+}
+.fi-vg {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/vg.png");
+}
+.fi-vi {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/vi.png");
+}
+.fi-vn {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/vn.png");
+}
+.fi-vu {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/vu.png");
+}
+.fi-ws {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ws.png");
+}
+.fi-ye {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/ye.png");
+}
+.fi-za {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/za.png");
+}
+.fi-zm {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/zm.png");
+}
+.fi-zw {
+  background-image: url("https://cdn.jsdelivr.net/gh/alexerlandsson/flag-icons@master/flags/zw.png");
+}
